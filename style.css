@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-style: italic;
+    color: #714ae7;
+    text-align: center;
+   
+}
+p{
+    color: #000000;
+    text-justify: auto;
+    font-size: 19px;
+    text-align: justify
+}
+.Resilencia{
+    background-color: #d68ee5;
+    margin: 0px;
+    padding: 0px;
+}
+.conformista{
+    background-color: #93def3;
+    margin: 0px;
+    padding: 0px;
+}
+
+.aprendiendo{
+    background-color: #d8e95a;
+    margin: 0px;
+    padding: 0px;
+}
